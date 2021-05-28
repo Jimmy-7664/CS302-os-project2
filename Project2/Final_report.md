@@ -660,7 +660,7 @@ Then we use Python to open the relevant files and read the information, which is
 
 The last part is GUI. We use the form visualization interface provided by the grid class of wxPython to visualize. At the same time, we realize the response of mouse click event. When we click the column name, we will automatically sort the current information according to the column.
 
-![](.\1.png)
+![](1.png)
 
 ### Task2&3 TODO
 
